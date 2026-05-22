@@ -72,6 +72,8 @@ Respuesta: Porque asi el programa sabe que revertir, sin eso la maquina se va a 
 
 4. ¿Qué ventaja tiene entregar mediante Fork + Pull Request en lugar de un archivo comprimido? ¿Cómo facilita la la retroalimentación?
 
+Respuesta: Que nada mas mandamos los archivos que modificamos y listo.
+
 ## ✅ Checklist de Entrega
 - [ ] Código compila en SharpDevelop sin warnings críticos
 - [ ] Uso correcto y consistente de `string.Format()` en todos los mensajes
