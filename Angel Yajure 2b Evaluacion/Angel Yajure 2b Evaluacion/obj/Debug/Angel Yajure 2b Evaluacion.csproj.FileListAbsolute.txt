@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\obj\Debug\Angel Yajure 2b Evaluacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\bin\Debug\Angel Yajure 2b Evaluacion.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\bin\Debug\Angel Yajure 2b Evaluacion.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\obj\Debug\Angel Yajure 2b Evaluacion.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\obj\Debug\Angel Yajure 2b Evaluacion.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\obj\Debug\Angel_Yajure_2b_Evaluacion.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\Angel Yajure 2b Evaluacion\Angel Yajure 2b Evaluacion\obj\Debug\Angel Yajure 2b Evaluacion.csproj.GenerateResource.Cache
